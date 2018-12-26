@@ -3,4 +3,5 @@ public class Customer{
 	private Integer age;
 	private Date hireDate;
 	private String xixi;
+	private String hehe;
 }
